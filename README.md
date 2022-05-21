@@ -10,7 +10,7 @@
 
 OpenDataology is a project for AI model trainning with trusted dataset compliance. Our project enables users of publicly available datasets and users who curate a dataset from multiple data sources (particularly for use as a part of machine learning models) to identify the potential license compliance risks. Our project is primarily comprised of three key components. 
 
-* A dataset license compliance analysis workflow that ascertains the final allowed rights and the required obligations associated with using a publicly available dataset or a dataset that is curated from multiple data sources for any purpose.
+* A dataset license compliance analysis workflow that ascertains the final allowed rights and the required obligations associated with using a publicly available dataset or a dataset that is curated from multiple data sources for any purpose. Please refer to the paper [Can I use this publicly available dataset to build commercial AI software?-A Case Study on Publicly Available Image Datasets](Paper_license_compliance.pdf) for more details.
 * A growing database and a [web portal](https://github.com/OpenDataology/portal-frontend) that documents the final rights and obligations (after the license compliance analysis is conducted) associated with the datasets and the data sources analyzed in our project. The database also documents the metadata collected and used to conduct the compliance workflow.
 * An online [license generation toolkit](https://github.com/OpenDataology/license-generator) that creators of datasets to generate custom licenses depending on the exact rights and obligations that they want to allow (instead of having to rely on existing available and limited dataset specific licenses)
 
