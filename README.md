@@ -2,7 +2,7 @@
 
 ----
 
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6032/badge)](https://bestpractices.coreinfrastructure.org/projects/6032) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6032/badge)](https://bestpractices.coreinfrastructure.org/projects/6032) <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
 
 ## Overview
 
